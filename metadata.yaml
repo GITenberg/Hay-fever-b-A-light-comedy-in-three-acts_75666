@@ -1,6 +1,9 @@
 _repo: Hay-fever-b-A-light-comedy-in-three-acts_75666
 _version: 0.1.0
 alternative_title: 'Hay fever :  A play in three acts'
+covers:
+- cover_type: archival
+  image_path: 75666-h/images/cover.jpg
 creator:
   author:
     agent_name: Coward, Noël
@@ -16,6 +19,8 @@ creator:
 description: 'Wikipedia page about this book: https://en.wikipedia.org/wiki/Hay_Fever_(play)
 
   Reading ease score: 88.2 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75666#Hay-fever-b-A-light-comedy-in-three-acts
 gutenberg_bookshelf:
 - 'Browsing: Humour'
 - 'Browsing: Performing Arts/Film'
